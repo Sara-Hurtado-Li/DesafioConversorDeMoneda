@@ -1,0 +1,14 @@
+{
+  "monedaBase": "Peso argentino",
+  "monedaDestino": "Dólar americano",
+  "cantidad": 6000.0,
+  "tasa_Conversion": 8.7566E-4,
+  "resultado": 5.25396
+}
+{
+  "monedaBase": "Dólar americano",
+  "monedaDestino": "Peso colombiano",
+  "cantidad": 500.0,
+  "tasa_Conversion": 4157.6502,
+  "resultado": 2078825.1
+}
